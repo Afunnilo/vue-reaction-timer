@@ -1,4 +1,7 @@
-# segsalerty-evaluation
+# REACTION TIMER
+A fun reaction timer game built with vue. Hosted on netlify: https://vuereactiontimer.netlify.app/
+
+
 
 ## Project setup
 ```
